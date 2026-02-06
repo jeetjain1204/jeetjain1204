@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Building%20The%20Future%20@%20Infinity%20LAB&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Jeet%20::%20Founder%20%7C%20AI%20Engineer%20%7C%20Product%20Architect&descAlignY=55&descAlign=50" alt="Infinity LAB Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&fontColor=ffffff&text=Building%20The%20Future%20@%20Infinity%20LAB&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Jeet%20::%20Founder%20%7C%20AI%20Engineer%20%7C%20Product%20Architect&descAlignY=55&descAlign=50" alt="Infinity LAB Header" width="100%"/>
 </div>
 
 <div align="center">
