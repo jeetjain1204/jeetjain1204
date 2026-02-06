@@ -32,6 +32,44 @@ Use the tools below to analyze my stack or view my active projects.
 
 <br/>
 
+---
+
+# Infinity LAB: Design Engineering & UX Gallery
+
+> A collection of high-conversion landing pages and frontend architectures built by Jeet.
+
+-
+
+## 1. Brand Bot
+**Stack:** React, OpenAI API, Tailwind CSS
+**Objective:** A minimalist, prompt-driven interface for automated brand identity generation. Focuses on zero-friction onboarding and instant visual feedback.
+![Brand Bot UI]([IMAGE_URL](https://github.com/user-attachments/assets/60f9c23f-03ef-4e67-8bfd-a907bdf15046))
+[🔗 Visit Live Site]([URL](https://pocketfriends.framer.website/))
+
+---
+
+## 2. Pocket Friends
+**Stack:** Flutter (Web), Rive Animations
+**Objective:** An emotionally resonant AI companion interface. Uses adaptive color themes and fluid micro-interactions to mimic human-like warmth and responsiveness.
+![Pocket Friends UI]([IMAGE_URL](https://github.com/user-attachments/assets/8c66483b-76d1-40c1-b444-c6a82ce56841))
+[🔗 Visit Live Site]([URL](https://oldpocketfriends.framer.website/))
+
+---
+
+## 3. Blob (Social Flow)
+**Stack:** Next.js, Stripe API, Framer Motion
+**Objective:** High-conversion SaaS landing page. Engineered to guide enterprise users from "Hero Section" to "Checkout" within 3 scrolls using directional cues and trust signals.
+![Blob Landing Page]([IMAGE_URL](https://github.com/user-attachments/assets/25daeab5-fc65-4cdd-b72f-61bc32c1d9b0))
+[🔗 Visit Live Site]([URL](https://blobautomation.framer.website/))
+
+---
+
+## 4. Personal Portfolio
+**Stack:** Next.js, Three.js, Vercel
+**Objective:** A "Digital Garden" designed to establish engineering authority. Features a high-performance bento-grid layout to showcase complex projects without visual clutter.
+![Portfolio UI]([IMAGE_URL](https://github.com/user-attachments/assets/2fbe3eb4-7350-4ee5-9e66-6a2a858044b3))
+[🔗 Visit Live Site]([URL](https://www.jeetjain.com/))
+
 <a href="mailto:jeet.marlecha_ugdsai2029@mastersunion.org">
   <img src="https://img.shields.io/badge/Business%20Inquiries-Contact%20Me-black?style=for-the-badge&logo=gmail" alt="Contact" />
 </a>
@@ -40,5 +78,5 @@ Use the tools below to analyze my stack or view my active projects.
 
 <!---
 CodeWithJeet1204/CodeWithJeet1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
