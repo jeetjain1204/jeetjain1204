@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  
+
 ### 🚀 Engineering High-Leverage Systems
 
 I am a Tech Entrepreneur and the Founder of **Infinity LAB**. I specialize in bridging the gap between heavy-lifting AI research and consumer-grade mobile experiences. My focus is on building **Jeex**, an AI-native business ecosystem.
@@ -32,11 +32,60 @@ Use the tools below to analyze my stack or view my active projects.
 
 <br/>
 
-![Portfolio UI](https://github.com/user-attachments/assets/2fbe3eb4-7350-4ee5-9e66-6a2a858044b3)
-[🔗 Visit Live Site](https://www.jeetjain.com/)
+---
+
+# Infinity LAB: Design Engineering & UX Gallery
+
+> A collection of high-conversion landing pages and frontend architectures built by Jeet — gallery in one row for quick scanning.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <h3>1. Brand Bot</h3>
+      <p><strong>Stack:</strong> React, OpenAI API, Tailwind CSS</p>
+      <p><strong>Objective:</strong> A minimalist, prompt-driven interface for automated brand identity generation. Focuses on zero-friction onboarding and instant visual feedback.</p>
+      <a href="https://pocketfriends.framer.website/">
+        <img src="https://github.com/user-attachments/assets/60f9c23f-03ef-4e67-8bfd-a907bdf15046" alt="Brand Bot UI" width="100%" />
+      </a>
+      <br /><br />
+      <a href="https://pocketfriends.framer.website/">🔗 Visit Live Site</a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <h3>2. Pocket Friends</h3>
+      <p><strong>Stack:</strong> Flutter (Web), Rive Animations</p>
+      <p><strong>Objective:</strong> An emotionally resonant AI companion interface. Uses adaptive color themes and fluid micro-interactions to mimic human-like warmth and responsiveness.</p>
+      <a href="https://oldpocketfriends.framer.website/">
+        <img src="https://github.com/user-attachments/assets/8c66483b-76d1-40c1-b444-c6a82ce56841" alt="Pocket Friends UI" width="100%" />
+      </a>
+      <br /><br />
+      <a href="https://oldpocketfriends.framer.website/">🔗 Visit Live Site</a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <h3>3. Blob (Social Flow)</h3>
+      <p><strong>Stack:</strong> Next.js, Stripe API, Framer Motion</p>
+      <p><strong>Objective:</strong> High-conversion SaaS landing page. Engineered to guide enterprise users from "Hero Section" to "Checkout" within 3 scrolls using directional cues and trust signals.</p>
+      <a href="https://blobautomation.framer.website/">
+        <img src="https://github.com/user-attachments/assets/25daeab5-fc65-4cdd-b72f-61bc32c1d9b0" alt="Blob Landing Page" width="100%" />
+      </a>
+      <br /><br />
+      <a href="https://blobautomation.framer.website/">🔗 Visit Live Site</a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <h3>4. Personal Portfolio</h3>
+      <p><strong>Stack:</strong> Next.js, Three.js, Vercel</p>
+      <p><strong>Objective:</strong> A "Digital Garden" designed to establish engineering authority. Features a high-performance bento-grid layout to showcase complex projects without visual clutter.</p>
+      <a href="https://www.jeetjain.com/">
+        <img src="https://github.com/user-attachments/assets/2fbe3eb4-7350-4ee5-9e66-6a2a858044b3" alt="Portfolio UI" width="100%" />
+      </a>
+      <br /><br />
+      <a href="https://www.jeetjain.com/">🔗 Visit Live Site</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
-<br/>
 <a href="mailto:jeet.marlecha_ugdsai2029@mastersunion.org">
   <img src="https://img.shields.io/badge/Business%20Inquiries-Contact%20Me-black?style=for-the-badge&logo=gmail" alt="Contact" />
 </a>
