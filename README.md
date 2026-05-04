@@ -36,7 +36,7 @@ Use the tools below to analyze my stack or view my active projects.
 
 # Infinity LAB: Design Engineering & UX Gallery
 
-> A collection of high-conversion landing pages and frontend architectures built by Jeet — gallery in one row for quick scanning.
+> A collection of high-conversion landing pages
 
 <table>
   <tr>
@@ -57,7 +57,7 @@ Use the tools below to analyze my stack or view my active projects.
       <a href="https://oldpocketfriends.framer.website/">🔗 Visit Live Site</a>
     </td>
     <td align="center" valign="top" width="25%">
-      <h3>3. Blob (Social Flow)</h3>
+      <h3>3. Blob</h3>
       <a href="https://blobautomation.framer.website/">
         <img src="https://github.com/user-attachments/assets/25daeab5-fc65-4cdd-b72f-61bc32c1d9b0" alt="Blob Landing Page" width="100%" />
       </a>
